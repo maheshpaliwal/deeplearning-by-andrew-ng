@@ -1,2 +1,2 @@
-# Machine-Learning-By-Andrew-Ng
-My journey of machine learning course by andrew ng
+# Deep Learning Assignments 
+My journey of deep learning course by andrew ng
